@@ -30,7 +30,7 @@
 	</developers>
 
 	<properties>
-		<aperture.version>1.0.9</aperture.version>
+		<aperture.version>1.0.9.1</aperture.version>
 		<influent.dev.client.src>../influent-client/influent-clientjs/src</influent.dev.client.src>
 	</properties>
 
